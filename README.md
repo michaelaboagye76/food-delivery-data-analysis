@@ -43,11 +43,15 @@ Developed foundational visualizations for exploratory analysis, including:
 
 * Correlation heatmap using seaborn
 
-  ![](/images/Screenshot from 2025-12-06 21-57-28.png)
+  ![Correlation plot](/images/correlation_plot.png)
+
+* Coorelation table
+![](/images/correlationtable.png)
+
 
 * Pairwise relationships among numerical variables
 
-  ![](/home/michael/Desktop/FOOD DATA ANALYSIS/images/numeric relation.png)
+  ![](/images/numrelation.png) 
 
 
 
@@ -70,6 +74,8 @@ Developed foundational visualizations for exploratory analysis, including:
 
 
 
-## **Additional Information**
+## Additional Information
 
 Refer to the slides to view tableau visualizations.
+
+...
