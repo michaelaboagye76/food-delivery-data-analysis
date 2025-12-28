@@ -76,6 +76,6 @@ Developed foundational visualizations for exploratory analysis, including:
 
 ## Additional Information
 
-Refer to the slides in the **presentation** to view tableau visualizations.
+Refer to the slides in the **presentation** folder to view tableau visualizations.
 
 ...
